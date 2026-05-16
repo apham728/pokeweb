@@ -1,5 +1,5 @@
 import { PokedexClosed } from './PokedexClosed'
-import styles from './pokedex.module.css'
+import styles from '../styles/pokedex.module.css'
 
 export function PokedexShell() {
   return (
